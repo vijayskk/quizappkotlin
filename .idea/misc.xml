@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/def_op_border.xml" value="0.3215" />
+        <entry key="app/src/main/res/drawable/sel_op_border.xml" value="0.2535" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_quiz_question.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_result.xml" value="0.33" />
       </map>
     </option>
   </component>
